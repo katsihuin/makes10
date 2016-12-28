@@ -1,6 +1,6 @@
-# Objetivo80
+# Ejercicio 6 - Leccion 17
 
-##Inicio: Calcular porcentaje de Squad
+##Inicio: Makes10
 
 ##Declaración de Variables
 
