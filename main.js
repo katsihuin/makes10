@@ -10,11 +10,11 @@ function calcular()
         document.getElementById("salida").innerHTML = "<div class='alert'>Ingrese valores</div>";
     } else if (a == 10 || b == 10 || a+b == 10)
     {
-        salida.innerHTML = "True";
+        salida.innerHTML = "Si";
     } 
     else 
     {
-        salida.innerHTML = "False";
+        salida.innerHTML = "No";
     }
 }
   

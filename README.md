@@ -15,9 +15,9 @@
 ##Proceso
 
 - Si cualquiera a o b es igual 10 o la suma de ambos a + b es igual a 10 //(a == 10 || b == 10 || a+b == 10)
-    - Mostrar mensaje: "True"
+    - Mostrar mensaje: "Si"
 - Si no
-    - Monstrar mensaje: "False"
+    - Monstrar mensaje: "No"
 
 ## Mostrar Resultados
 
