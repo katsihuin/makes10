@@ -4,22 +4,20 @@
 
 ##Declaración de Variables
 
-- puntosSquad
-- puntosMaximo
-- porcentajeSquad
+- numA
+- numB
 
 ##Ingreso de Datos
 
-- Pedir la cantidad de puntos por squad
-- Pedir la cantidad puntos maximo disponibles
+- Pedir que usuario ingrese numA
+- Pedir que usuario ingrese numB
 
 ##Proceso
 
-- Operar (100 * punto_squad) / max_puntos y guardar en porcentaje_squad
-- Si porcentaje_squad es mayor que 80
-    - Mostrar mensaje: "Muy bien Squad!
+- Si cualquiera a o b es igual 10 o la suma de ambos a + b es igual a 10 //(a == 10 || b == 10 || a+b == 10)
+    - Mostrar mensaje: "True"
 - Si no
-    - Monstrar mensaje: "Pueden hacerlo mejor"
+    - Monstrar mensaje: "False"
 
 ## Mostrar Resultados
 
